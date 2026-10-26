@@ -1,0 +1,22 @@
+{
+  "editor.inlineSuggest.enabled": false,
+  "editor.quickSuggestions": {
+    "other": "off",
+    "comments": "off",
+    "strings": "off"
+  },
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.wordBasedSuggestions": "off",
+  "editor.parameterHints.enabled": false,
+  "editor.tabCompletion": "off",
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.snippetSuggestions": "none",
+  "python.analysis.autoImportCompletions": false,
+  "cursor.cpp.disabledLanguages": [
+    "python",
+    "plaintext",
+    "markdown",
+    "json",
+    "shellscript"
+  ]
+}
