@@ -1,0 +1,19 @@
+Welcome to Python file handling practice.
+
+Python can read text files in several ways: 1. read() - reads the entire
+file. 2. readline() - reads one line at a time. 3. readlines() - reads
+all lines and returns a list.
+
+STUDENT DETAILS Name: Monzur Course: Python Programming Level: Beginner
+Country: Bangladesh
+
+DAILY STUDY PLAN 5:00 AM - Wake up 5:30 AM - Study Python 7:30 AM -
+Practise coding 10:00 AM - Take a break 11:00 AM - Read technical topics
+
+PYTHON TOPICS Variables Data types Conditional statements Loops
+Functions Lists and dictionaries File handling
+
+PRACTICE TASKS 1. Read the entire file using read(). 2. Read only the
+first line using readline(). 3. Read all lines using readlines(). 4.
+Count the number of lines in this file. 5. Search for the word “Python”.
+6. Print the file content line by line.
